@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+My name is Chunren Zhang. and I'm a Frontend Developer from Taiwan.
 
-<!--
-**rayatn1011/rayatn1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ChunRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayatn1011&theme=vue&show_icons=true&count_private=true)
 
-Here are some ideas to get you started:
+## Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend Skills
+![Frontend Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,vue,vite&perline=6)
+
+## Development Tool Skills
+![Development Tool Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker&perline=6)
+
+## Design Tool Skills
+![Design Tool Skills](https://skillicons.dev/icons?i=figma,ps,ai&perline=6)
