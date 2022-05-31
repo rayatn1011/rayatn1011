@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Chunren Zhang. and I'm a Frontend Developer from Taiwan.
 
-![ChunRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayatn1011&theme=vue&show_icons=true&count_private=true&hide=contribs)
+![ChunRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayatn1011&show_icons=true&count_private=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayatn1011&layout=compact)
 
