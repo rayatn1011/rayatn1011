@@ -11,4 +11,4 @@ My name is Chunren Zhang. and I'm a Frontend Developer from Taiwan.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ## Skills
-![Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,vue,vite,vscode,git,github,gitlab,docker,figma,ps,ai&theme=light)
+![Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,vue,vite,vscode,git,github,gitlab,docker,figma,ps,ai&theme=light)
